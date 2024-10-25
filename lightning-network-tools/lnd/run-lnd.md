@@ -84,7 +84,7 @@ We can install lnd with the following commands. Starting with lnd 0.15 all impor
 `git clone https://github.com/lightningnetwork/lnd`\
 `cd lnd`\
 `git checkout <most recent version>`\
-`make install`
+`make release-install`
 
 LND is now installed from source.
 
